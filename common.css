@@ -183,7 +183,6 @@ body {
         position: fixed;
         top: 0; right: -150px;
         background: #fff;
-        margin-top: 20px;
         width: 150px;
         height: 100vh;
         transition: 1s;
@@ -191,6 +190,7 @@ body {
     }
     #gnb ul {
         display: block;
+        margin-top: 20px;
     }
     #gnb ul li {
         line-height: 50px;
